@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alessandra-Nastassja/NLW-ROCKETSEAT-II/129f2b7c7e5788c399289bee4e8ee31d1e4d67e1/web/src/assets/icons/rocket.svg" width="100px"/>
 </p>
+<h1 align="center">Proffy</h1>
 <p align="center">Projeto destinado para o desenvolvimento da Next Level Week II da @Rocketseat.</p>
 
 <p align="center">
