@@ -36,8 +36,8 @@ Segue abaixo a documentação de como rodar o back-end, front-end e o banco de d
 ## Resultado :heavy_check_mark:
 
 O layout esta disponínel no **Figma**:
-* [Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
-* [Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/?viewer=1&node-id=)
+* [Web](https://www.figma.com/file/WofVCaZCvfpY2HiRmDilAv/Proffy_Web)
+* [Mobile](https://www.figma.com/file/YfeMVjb7qX785dXdBVD2WG/Proffy_Mobile?node-id=0%3A1)
 
 ******
 
