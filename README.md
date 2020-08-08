@@ -17,7 +17,8 @@
 
 ## Aulas: ⭐️
 
-* 1º (**ReactJS e estrutura web**) - 03/08: ⚠️
+* 1º (**ReactJS e estrutura web**) - 03/08: ✔️
+* 2º (**Back-end com Node.js**) - 04/08: ⚠️
 
 ******
 
