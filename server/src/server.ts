@@ -1,12 +1,12 @@
 import express from 'express';
 
+import routes from './routes';
+
 const app = express();
 
 app.use(express.json());
 
-app.get('/users', (request, response) => {
-    return response.send('hELLO')
-});
+app.use(routes);
 
 const port = process.env.port || 3333;
 app.listen(port);
