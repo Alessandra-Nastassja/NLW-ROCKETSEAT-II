@@ -40,6 +40,9 @@ O layout esta disponínel no **Figma**:
 * [Web](https://www.figma.com/file/WofVCaZCvfpY2HiRmDilAv/Proffy_Web)
 * [Mobile](https://www.figma.com/file/YfeMVjb7qX785dXdBVD2WG/Proffy_Mobile?node-id=0%3A1)
 
+![Screenshot from 2020-08-10 22-48-11](https://user-images.githubusercontent.com/27302446/89847955-a4b42e00-db5b-11ea-8d1f-65b93234d090.png)
+
+
 ******
 
 ## Como contribuir ? 😽
