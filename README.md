@@ -19,7 +19,8 @@
 
 * 1º (**ReactJS e estrutura web**) - 03/08: ✔️
 * 2º (**Back-end com Node.js**) - 04/08: ✔️
-* 3º (**Finalizando front-end**) - 05/08: ⚠️
+* 4º (**Finalizando front-end**) - 05/08: ✔️
+* 3º (**Estruturando app mobile**) - 06/08: ⚠️
 
 ******
 
